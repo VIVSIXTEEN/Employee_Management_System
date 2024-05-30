@@ -9,7 +9,7 @@
 # How to run
 - Pull or download the zip file of the project.
 - Set image path according to your system.
-- Create mysql database with name "MCA" and table with name "kartik" with username and password as root.
+- Create mysql database with name "vivek" and table with name "verma" with username and password as root.
 ## On command prompt or terminal run following commads:
 - pip install mysql-connector-python
 - pip install ttk
