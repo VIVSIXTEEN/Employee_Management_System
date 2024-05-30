@@ -1,6 +1,6 @@
 
 # Employee_management_system
-## Python project made in collabration with coding blocks.
+##  This Python project made under the supervision of coding blocks.
 
 # Prerequisites
 - Python
